@@ -12,6 +12,7 @@ public class MyHelloWorld{
 	public static void main(String [] args){
 	
 		int a = 1;
+		System.out.println(a);
 		a = inc(a);
 		System.out.println(a);
 
